@@ -1,0 +1,79 @@
+{
+  "git.autofetch": true,
+  "diffEditor.wordWrap": "on",
+  "editor.wordWrap": "on",
+  "[php]": {
+    "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
+  },
+  "files.autoSave": "afterDelay",
+  "workbench.editor.decorations.colors": false,
+  "workbench.colorCustomizations": {
+    //"terminal.background": "#1D2021",
+    "terminal.foreground": "#f5f3f0",
+    "terminalCursor.background": "#f5f3f0",
+    "terminalCursor.foreground": "#f5f3f0",
+    "terminal.ansiBlack": "#1D2021",
+    "terminal.ansiBlue": "#0D6678",
+    "terminal.ansiBrightBlack": "#665C54",
+    "terminal.ansiBrightBlue": "#0D6678",
+    "terminal.ansiBrightCyan": "#8BA59B",
+    "terminal.ansiBrightGreen": "#95C085",
+    "terminal.ansiBrightMagenta": "#8F4673",
+    "terminal.ansiBrightRed": "#FB543F",
+    "terminal.ansiBrightWhite": "#FDF4C1",
+    "terminal.ansiBrightYellow": "#FAC03B",
+    "terminal.ansiCyan": "#8BA59B",
+    "terminal.ansiGreen": "#95C085",
+    "terminal.ansiMagenta": "#8F4673",
+    "terminal.ansiRed": "#FB543F",
+    "terminal.ansiWhite": "#A89984",
+    "terminal.ansiYellow": "#FAC03B"
+    // "terminal.foreground": "#E9E9F4",
+    // "terminalCursor.background": "#E9E9F4",
+    // "terminalCursor.foreground": "#E9E9F4",
+    // "terminal.ansiBlack": "#282936",
+    // "terminal.ansiBlue": "#62D6E8",
+    // "terminal.ansiBrightBlack": "#626483",
+    // "terminal.ansiBrightBlue": "#62D6E8",
+    // "terminal.ansiBrightCyan": "#A1EFE4",
+    // "terminal.ansiBrightGreen": "#EBFF87",
+    // "terminal.ansiBrightMagenta": "#B45BCF",
+    // "terminal.ansiBrightRed": "#EA51B2",
+    // "terminal.ansiBrightWhite": "#F7F7FB",
+    // "terminal.ansiBrightYellow": "#00F769",
+    // "terminal.ansiCyan": "#A1EFE4",
+    // "terminal.ansiGreen": "#EBFF87",
+    // "terminal.ansiMagenta": "#B45BCF",
+    // "terminal.ansiRed": "#EA51B2",
+    // "terminal.ansiWhite": "#E9E9F4",
+    // "terminal.ansiYellow": "#00F769"
+  },
+  "workbench.colorTheme": "Monokai Pro (Filter Spectrum)",
+  "terminal.integrated.profiles.windows": {
+    "PowerShell": {
+      "source": "PowerShell",
+      "icon": "terminal-powershell"
+    },
+    "Command Prompt": {
+      "path": [
+        "${env:windir}\\Sysnative\\cmd.exe",
+        "${env:windir}\\System32\\cmd.exe"
+      ],
+      "args": [],
+      "icon": "terminal-cmd"
+    },
+    "Git Bash": {
+      "source": "Git Bash"
+    },
+    "Ubuntu-20.04 (WSL)": {
+      "path": "C:\\WINDOWS\\System32\\wsl.exe",
+      "args": ["-d", "Ubuntu-20.04"]
+    }
+  },
+  "terminal.integrated.defaultProfile.windows": "Ubuntu-20.04 (WSL)",
+  "editor.formatOnSave": true,
+  "tabnine.experimentalAutoImports": true,
+  "workbench.iconTheme": "material-icon-theme",
+  "material-icon-theme.folders.associations": {},
+  "material-icon-theme.languages.associations": {}
+}

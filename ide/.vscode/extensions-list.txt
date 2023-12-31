@@ -1,0 +1,39 @@
+# Ubuntu-20.04
+
+## General
+
+ Color Highlight (v2.5.0) - naumovs.color-highlight
+ GitLens — Git supercharged (v14.6.1) - eamodio.gitlens
+ Live Preview (v0.4.13) - ms-vscode.live-server
+ Live Server (v5.7.9) - ritwickdey.liveserver
+ Live Share (v1.0.5900) - ms-vsliveshare.vsliveshare
+ Postman (v0.17.0) - postman.postman-for-vscode
+ Prettier - Code formatter (v10.1.0) - esbenp.prettier-vscode
+ Material Icon Theme (v4.32.0) - pkief.material-icon-theme
+ Monokai Pro (v1.2.2) - monokai.theme-monokai-pro-vscode
+
+## GitHub
+
+ GitHub Copilot (v1.143.0) - github.copilot
+ GitHub Copilot Chat (v0.11.1) - github.copilot-chat
+
+## Front-end
+
+ HTML CSS Support (v2.0.0) - ecmel.vscode-html-css
+ Figma for VS Code (v0.3.1) - figma.figma-vscode-extension
+ phpfmt - PHP formatter (v1.1.35) - kokororin.vscode-phpfmt
+ Quokka.js (v1.0.609) - wallabyjs.quokka-vscode
+ Auto Close Tag (v0.5.15) - formulahendry.auto-close-tag
+ Auto Rename Tag (v0.1.10) - formulahendry.auto-rename-tag
+
+## Python
+
+ Python (v2023.22.1) - ms-python.python
+ autoDocstring - Python Docstring Generator (v0.6.1) - njpwerner.autodocstring
+ autopep8 (v2023.8.0) - ms-python.autopep8
+ Pylance (v2023.12.1) - ms-python.vscode-pylance
+
+## Node.js
+
+ Node.js Exec (v0.5.5) - miramac.vscode-exec-node
+

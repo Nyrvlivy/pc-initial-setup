@@ -1,0 +1,70 @@
+<application>
+  <component name="Translation.Cache">
+    <option name="lastTrimTime" value="1691112769732" />
+  </component>
+  <component name="Translation.States">
+    <option name="newTranslationDialogWidth" value="570" />
+    <option name="newTranslationDialogX" value="1940" />
+    <option name="newTranslationDialogY" value="697" />
+    <option name="pinTranslationDialog" value="true" />
+    <histories>
+      <item value="olá" />
+      <item value="hello" />
+      <item value="saddasd" />
+      <item value="caixa de mercado, vendedor" />
+      <item value="caixa, ve" />
+      <item value="caixa" />
+      <item value="Quanto nosso gerente vai ganhar?" />
+      <item value="Quanto nosso gerente vai ganhar" />
+      <item value="Quanto nosso " />
+      <item value="Quanto noss" />
+      <item value="Quanto" />
+      <item value="Como nosso gerente será chamado?" />
+      <item value="Como nosso gerente será chamado" />
+      <item value="Como nosso gerente será " />
+      <item value="Como nosso " />
+      <item value="employee" />
+      <item value="gerente da empresa" />
+      <item value="gerente " />
+      <item value="salario" />
+      <item value="funcionario" />
+      <item value="oficial" />
+      <item value="Total de contas:" />
+      <item value="Total de ocntas:" />
+      <item value="nos estamos criando uma conta" />
+      <item value="nos estam criando uma conta" />
+      <item value="nos esta criando uma conta" />
+      <item value="nos  esta criando uma conta" />
+      <item value="ele esta criando uma conta" />
+      <item value="estou criando uma conta" />
+      <item value="espou criando uma conta" />
+      <item value="estpou criando uma conta" />
+      <item value="Valor menor que zero" />
+      <item value="Valor menor que " />
+      <item value="menor ou igual" />
+      <item value="menor ou " />
+      <item value="menor o" />
+      <item value="PROHIBITED" />
+      <item value="PROIBIDO" />
+      <item value="saldo da conta" />
+      <item value="analista desenvolvedor backend" />
+      <item value="analista desenvolvedor " />
+      <item value="profissão" />
+      <item value="prof" />
+      <item value="profsi~s" />
+      <item value="profsi" />
+      <item value="cliente do banco" />
+      <item value="cliente " />
+      <item value="cliente" />
+      <item value="banco-itau-elaborado" />
+      <item value="banco-itau-composto" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="ENGLISH" value="96" />
+        <entry key="PORTUGUESE" value="102" />
+        <entry key="SPANISH" value="1" />
+      </map>
+    </option>
+  </component>
+</application>

@@ -1,0 +1,9 @@
+manjaro.ptpb
+monokai-pro
+com.vermouthx.idea
+com.markskelton.one-dark-theme
+Key Promoter X
+izhangzhihao.rainbow.brackets
+com.mallowigi
+zielu.gittoolbox
+cn.yiiguxing.plugin.translate
