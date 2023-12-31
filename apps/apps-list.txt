@@ -1,0 +1,39 @@
+# Social Medias
+ WhatsApp Desktop
+ Telegram Desktop
+ Discord
+
+# Dev
+ Git
+ IntelliJIDEA Ultimate
+ Visual Studio Code
+ GitHub Desktop
+ Insomnia
+ Beekeeper Studio
+ Ubuntu.2004
+ Windows Terminal
+
+# Entertainment
+ Stremio
+ Steam
+ Notion
+ Epic Games Launcher
+ Spotify
+
+# Browsers
+ Google Chrome
+ Opera GX
+
+# Softwares
+ Adobe Creative Cloud
+ HyperX NGENUITY
+ Logitech G HUB
+ Nvidia GeForce Experience
+ OneDrive
+ TranslucentTB
+ Camo Studio
+ Geek Uninstaller
+ WinRAR
+
+# Games
+ Valorant
