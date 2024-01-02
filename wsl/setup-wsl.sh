@@ -8,7 +8,7 @@ echo "https://youtube.com/playlist?list=PLlAbYrWSYTiOpefWtd6uvwgKT1R-94Zfd&si=UJ
 
 # Commands
 # nano .zshrc
-# source .zhsrc
+# source .zshrc
 
 # Install WSL (PowerShell)
 wsl --install
@@ -19,52 +19,28 @@ sudo apt update && sudo apt install -y zsh
 # Install Oh My Zhs
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 
-sed -i 's/ZSH_THEME="robbyrussell"/ZSH_THEME="af-magic"/' ~/.zshrc
+# SSH key
+mkdir ~/.ssh
 
-sed -i '/^plugins=(/ s/)$/ git zsh-syntax-highlighting zsh-autosuggestions)/' ~/.zshrc
+# zsh-syntax-highlighting plugin
+git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting
 
-cat <<EOL >> ~/.zshrc
-# Alias para navegação rápida
-alias dev="cd ~/Development"
-alias cubos="cd ~/Development/CubosAcademy"
-EOL
+# zsh-autosuggestions plugin
+git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
 
-git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ~/.zsh-syntax-highlighting
+# zsh-nvm plugin
+git clone https://github.com/lukechilds/zsh-nvm ~/.oh-my-zsh/custom/plugins/zsh-nvm
 
-git clone https://github.com/zsh-users/zsh-autosuggestions.git ~/.zsh-autosuggestions
+echo "Done. Go to the next step:"
 
-##### .zhsrc #####
+### Tips: ###
+# 1. Check if Hyper-V is enabled
+# Navigate to "Windows features" and make sure to check the "Hyper-V" option
 
-# Path to your oh-my-zsh installation.
-export ZSH="$HOME/.oh-my-zsh"
+# 2. Use the following commands (Run as admin in PowerShell):
+# wsl --install
+# dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart
+# dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /norestart
+# wsl --set-default-version 2
 
-cat <<EOL >> ~/.zshrc
-# Alias para navegação rápida
-alias dev="cd ~/Development"
-alias cubos="cd ~/Development/CubosAcademy"
-
-# Set name of the theme to load
-ZSH_THEME="af-magic"
-
-# Oh My Zsh initialization
-source $ZSH/oh-my-zsh.sh
-
-# List of plugins
-plugins=(
-  git
-  ssh-agent
-  zsh-syntax-highlighting
-  zsh-autosuggestions
-)
-
-# Highlight style for arg0
-ZSH_HIGHLIGHT_STYLES[arg0]=fg=227
-
-# User-specific aliases and functions
-# alias zshconfig="mate ~/.zshrc"
-# alias ohmyzsh="mate ~/.oh-my-zsh"
-alias dev="cd ~/Development"
-alias cubos="cd ~/Development/CubosAcademy""
-EOL
-
-
+# 3. Reinstall the plugins and verify file/folder paths
