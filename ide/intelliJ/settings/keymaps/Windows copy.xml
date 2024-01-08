@@ -1,0 +1,3 @@
+<keymap version="1" name="Windows copy" parent="$default">
+  <action id="$SwitchTranslationEngineAction" />
+</keymap>
