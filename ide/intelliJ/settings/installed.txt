@@ -1,8 +1,10 @@
 manjaro.ptpb
 monokai-pro
 com.vermouthx.idea
+com.github.copilot
 com.markskelton.one-dark-theme
 Key Promoter X
+org.jetbrains.kotlin
 izhangzhihao.rainbow.brackets
 com.mallowigi
 zielu.gittoolbox

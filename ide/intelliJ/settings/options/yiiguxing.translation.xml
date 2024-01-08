@@ -1,13 +1,24 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1691112769732" />
+    <option name="lastTrimTime" value="1704552608320" />
   </component>
   <component name="Translation.States">
-    <option name="newTranslationDialogWidth" value="570" />
-    <option name="newTranslationDialogX" value="1940" />
-    <option name="newTranslationDialogY" value="697" />
-    <option name="pinTranslationDialog" value="true" />
+    <option name="newTranslationDialogHeight" value="260" />
+    <option name="newTranslationDialogWidth" value="566" />
+    <option name="newTranslationDialogX" value="783" />
+    <option name="newTranslationDialogY" value="631" />
     <histories>
+      <item value="Estagi" />
+      <item value="Estagio" />
+      <item value="Estagiot" />
+      <item value="Estagt" />
+      <item value="Estaget" />
+      <item value="Est" />
+      <item value="Esãgiot" />
+      <item value="Botão ativad" />
+      <item value="Botão ativado" />
+      <item value="Bot" />
+      <item value="QUE LEGAL" />
       <item value="olá" />
       <item value="hello" />
       <item value="saddasd" />
@@ -47,22 +58,11 @@
       <item value="PROHIBITED" />
       <item value="PROIBIDO" />
       <item value="saldo da conta" />
-      <item value="analista desenvolvedor backend" />
-      <item value="analista desenvolvedor " />
-      <item value="profissão" />
-      <item value="prof" />
-      <item value="profsi~s" />
-      <item value="profsi" />
-      <item value="cliente do banco" />
-      <item value="cliente " />
-      <item value="cliente" />
-      <item value="banco-itau-elaborado" />
-      <item value="banco-itau-composto" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="96" />
-        <entry key="PORTUGUESE" value="102" />
+        <entry key="PORTUGUESE" value="103" />
         <entry key="SPANISH" value="1" />
       </map>
     </option>
